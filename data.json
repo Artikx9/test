@@ -4599,7 +4599,1006 @@
       }
     }
   ]
+},
+{
+  "type": "match3level",
+  "id": "level_6",
+  "width": 11,
+  "height": 9,
+  "moves": 35,
+  "seed": 1,
+  "targets": [
+    {
+      "id": "BOX",
+      "count": 46
+    },
+    {
+      "id": "CUPBOARD",
+      "count": 80
+    }
+  ],
+  "field": [
+    {
+      "index": 0,
+      "cell": {
+        "id": "CELL"
+      },
+      "chip": {
+        "id": "BOX"
+      },
+      "spawners": [
+        {
+          "id": "CHIP_YELLOW",
+          "weight": 16
+        },
+        {
+          "id": "CHIP_RED",
+          "weight": 16
+        },
+        {
+          "id": "CHIP_GREEN",
+          "weight": 16
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "cell": {
+        "id": "CELL"
+      },
+      "chip": {
+        "id": "CUPBOARD",
+        "health" : 11
+      },
+      "spawners": [
+        {
+          "id": "CHIP_YELLOW",
+          "weight": 16
+        },
+        {
+          "id": "CHIP_RED",
+          "weight": 16
+        },
+        {
+          "id": "CHIP_GREEN",
+          "weight": 16
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "cell": {
+        "id": "CELL"
+      },
+      "spawners": [
+        {
+          "id": "CHIP_YELLOW",
+          "weight": 16
+        },
+        {
+          "id": "CHIP_RED",
+          "weight": 16
+        },
+        {
+          "id": "CHIP_GREEN",
+          "weight": 16
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "cell": {
+        "id": "CELL"
+      },
+      "chip": {
+        "id": "BOX"
+      },
+      "spawners": [
+        {
+          "id": "CHIP_YELLOW",
+          "weight": 16
+        },
+        {
+          "id": "CHIP_RED",
+          "weight": 16
+        },
+        {
+          "id": "CHIP_GREEN",
+          "weight": 16
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "cell": {
+        "id": "CELL"
+      },
+      "chip": {
+        "id": "CHIP_RANDOM"
+      },
+      "spawners": [
+        {
+          "id": "CHIP_YELLOW",
+          "weight": 16
+        },
+        {
+          "id": "CHIP_RED",
+          "weight": 16
+        },
+        {
+          "id": "CHIP_GREEN",
+          "weight": 16
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "cell": {
+        "id": "CELL"
+      },
+      "chip": {
+        "id": "CHIP_RANDOM"
+      },
+      "spawners": [
+        {
+          "id": "CHIP_YELLOW",
+          "weight": 16
+        },
+        {
+          "id": "CHIP_RED",
+          "weight": 16
+        },
+        {
+          "id": "CHIP_GREEN",
+          "weight": 16
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "cell": {
+        "id": "CELL"
+      },
+      "chip": {
+        "id": "CHIP_RANDOM"
+      },
+      "spawners": [
+        {
+          "id": "CHIP_YELLOW",
+          "weight": 16
+        },
+        {
+          "id": "CHIP_RED",
+          "weight": 16
+        },
+        {
+          "id": "CHIP_GREEN",
+          "weight": 16
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "cell": {
+        "id": "CELL"
+      },
+      "chip": {
+        "id": "BOX"
+      },
+      "spawners": [
+        {
+          "id": "CHIP_YELLOW",
+          "weight": 16
+        },
+        {
+          "id": "CHIP_RED",
+          "weight": 16
+        },
+        {
+          "id": "CHIP_GREEN",
+          "weight": 16
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "cell": {
+        "id": "CELL"
+      },
+      "chip": {
+        "id": "CUPBOARD",
+        "health" : 11
+      },
+      "spawners": [
+        {
+          "id": "CHIP_YELLOW",
+          "weight": 16
+        },
+        {
+          "id": "CHIP_RED",
+          "weight": 16
+        },
+        {
+          "id": "CHIP_GREEN",
+          "weight": 16
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "cell": {
+        "id": "CELL"
+      },
+      "spawners": [
+        {
+          "id": "CHIP_YELLOW",
+          "weight": 16
+        },
+        {
+          "id": "CHIP_RED",
+          "weight": 16
+        },
+        {
+          "id": "CHIP_GREEN",
+          "weight": 16
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "cell": {
+        "id": "CELL"
+      },
+      "chip": {
+        "id": "BOX"
+      },
+      "spawners": [
+        {
+          "id": "CHIP_YELLOW",
+          "weight": 16
+        },
+        {
+          "id": "CHIP_RED",
+          "weight": 16
+        },
+        {
+          "id": "CHIP_GREEN",
+          "weight": 16
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "cell": {
+        "id": "CELL"
+      },
+      "chip": {
+        "id": "BOX"
+      }
+    },
+    {
+      "index": 12,
+      "cell": {
+        "id": "CELL"
+      }
+    },
+    {
+      "index": 13,
+      "cell": {
+        "id": "CELL"
+      }
+    },
+    {
+      "index": 14,
+      "cell": {
+        "id": "CELL"
+      },
+      "chip": {
+        "id": "BOX"
+      }
+    },
+    {
+      "index": 15,
+      "cell": {
+        "id": "CELL"
+      },
+      "chip": {
+        "id": "CHIP_RANDOM"
+      }
+    },
+    {
+      "index": 16,
+      "cell": {
+        "id": "CELL"
+      },
+      "chip": {
+        "id": "CHIP_RANDOM"
+      }
+    },
+    {
+      "index": 17,
+      "cell": {
+        "id": "CELL"
+      },
+      "chip": {
+        "id": "CHIP_RANDOM"
+      }
+    },
+    {
+      "index": 18,
+      "cell": {
+        "id": "CELL"
+      },
+      "chip": {
+        "id": "BOX"
+      }
+    },
+    {
+      "index": 19,
+      "cell": {
+        "id": "CELL"
+      }
+    },
+    {
+      "index": 20,
+      "cell": {
+        "id": "CELL"
+      }
+    },
+    {
+      "index": 21,
+      "cell": {
+        "id": "CELL"
+      },
+      "chip": {
+        "id": "BOX"
+      }
+    },
+    {
+      "index": 22,
+      "cell": {
+        "id": "CELL"
+      },
+      "chip": {
+        "id": "BOX"
+      }
+    },
+    {
+      "index": 23,
+      "cell": {
+        "id": "CELL"
+      },
+      "chip": {
+        "id": "CUPBOARD",
+        "health" : 11
+      }
+    },
+    {
+      "index": 24,
+      "cell": {
+        "id": "CELL"
+      }
+    },
+    {
+      "index": 25,
+      "cell": {
+        "id": "CELL"
+      },
+      "chip": {
+        "id": "BOX"
+      }
+    },
+    {
+      "index": 26,
+      "cell": {
+        "id": "CELL"
+      },
+      "chip": {
+        "id": "CHIP_RANDOM"
+      }
+    },
+    {
+      "index": 27,
+      "cell": {
+        "id": "CELL"
+      },
+      "chip": {
+        "id": "CHIP_RANDOM"
+      }
+    },
+    {
+      "index": 28,
+      "cell": {
+        "id": "CELL"
+      },
+      "chip": {
+        "id": "CHIP_RANDOM"
+      }
+    },
+    {
+      "index": 29,
+      "cell": {
+        "id": "CELL"
+      },
+      "chip": {
+        "id": "BOX"
+      }
+    },
+    {
+      "index": 30,
+      "cell": {
+        "id": "CELL"
+      },
+      "chip": {
+        "id": "CUPBOARD",
+        "health" : 11
+      }
+    },
+    {
+      "index": 31,
+      "cell": {
+        "id": "CELL"
+      }
+    },
+    {
+      "index": 32,
+      "cell": {
+        "id": "CELL"
+      },
+      "chip": {
+        "id": "BOX"
+      }
+    },
+    {
+      "index": 33,
+      "cell": {
+        "id": "CELL"
+      },
+      "chip": {
+        "id": "BOX"
+      }
+    },
+    {
+      "index": 34,
+      "cell": {
+        "id": "CELL"
+      }
+    },
+    {
+      "index": 35,
+      "cell": {
+        "id": "CELL"
+      }
+    },
+    {
+      "index": 36,
+      "cell": {
+        "id": "CELL"
+      },
+      "chip": {
+        "id": "BOX"
+      }
+    },
+    {
+      "index": 37,
+      "cell": {
+        "id": "CELL"
+      },
+      "chip": {
+        "id": "CHIP_RANDOM"
+      }
+    },
+    {
+      "index": 38,
+      "cell": {
+        "id": "CELL"
+      },
+      "chip": {
+        "id": "CHIP_RANDOM"
+      }
+    },
+    {
+      "index": 39,
+      "cell": {
+        "id": "CELL"
+      },
+      "chip": {
+        "id": "CHIP_RANDOM"
+      }
+    },
+    {
+      "index": 40,
+      "cell": {
+        "id": "CELL"
+      },
+      "chip": {
+        "id": "BOX"
+      }
+    },
+    {
+      "index": 41,
+      "cell": {
+        "id": "CELL"
+      }
+    },
+    {
+      "index": 42,
+      "cell": {
+        "id": "CELL"
+      }
+    },
+    {
+      "index": 43,
+      "cell": {
+        "id": "CELL"
+      },
+      "chip": {
+        "id": "BOX"
+      }
+    },
+    {
+      "index": 44,
+      "cell": {
+        "id": "CELL"
+      },
+      "chip": {
+        "id": "BOX"
+      }
+    },
+    {
+      "index": 45,
+      "cell": {
+        "id": "CELL"
+      },
+      "chip": {
+        "id": "CUPBOARD",
+        "health" : 11
+      }
+    },
+    {
+      "index": 46,
+      "cell": {
+        "id": "CELL"
+      }
+    },
+    {
+      "index": 47,
+      "cell": {
+        "id": "CELL"
+      },
+      "chip": {
+        "id": "BOX"
+      }
+    },
+    {
+      "index": 48,
+      "cell": {
+        "id": "CELL"
+      },
+      "chip": {
+        "id": "CHIP_RANDOM"
+      }
+    },
+    {
+      "index": 49,
+      "cell": {
+        "id": "CELL"
+      },
+      "chip": {
+        "id": "CHIP_RANDOM"
+      }
+    },
+    {
+      "index": 50,
+      "cell": {
+        "id": "CELL"
+      },
+      "chip": {
+        "id": "CHIP_RANDOM"
+      }
+    },
+    {
+      "index": 51,
+      "cell": {
+        "id": "CELL"
+      },
+      "chip": {
+        "id": "BOX"
+      }
+    },
+    {
+      "index": 52,
+      "cell": {
+        "id": "CELL"
+      },
+      "chip": {
+        "id": "CUPBOARD",
+        "health" : 11
+      }
+    },
+    {
+      "index": 53,
+      "cell": {
+        "id": "CELL"
+      }
+    },
+    {
+      "index": 54,
+      "cell": {
+        "id": "CELL"
+      },
+      "chip": {
+        "id": "BOX"
+      }
+    },
+    {
+      "index": 55,
+      "cell": {
+        "id": "CELL"
+      },
+      "chip": {
+        "id": "BOX"
+      }
+    },
+    {
+      "index": 56,
+      "cell": {
+        "id": "CELL"
+      }
+    },
+    {
+      "index": 57,
+      "cell": {
+        "id": "CELL"
+      }
+    },
+    {
+      "index": 58,
+      "cell": {
+        "id": "CELL"
+      },
+      "chip": {
+        "id": "BOX"
+      }
+    },
+    {
+      "index": 59,
+      "cell": {
+        "id": "CELL"
+      },
+      "chip": {
+        "id": "CHIP_RANDOM"
+      }
+    },
+    {
+      "index": 60,
+      "cell": {
+        "id": "CELL"
+      },
+      "chip": {
+        "id": "CHIP_RANDOM"
+      }
+    },
+    {
+      "index": 61,
+      "cell": {
+        "id": "CELL"
+      },
+      "chip": {
+        "id": "CHIP_RANDOM"
+      }
+    },
+    {
+      "index": 62,
+      "cell": {
+        "id": "CELL"
+      },
+      "chip": {
+        "id": "BOX"
+      }
+    },
+    {
+      "index": 63,
+      "cell": {
+        "id": "CELL"
+      }
+    },
+    {
+      "index": 64,
+      "cell": {
+        "id": "CELL"
+      }
+    },
+    {
+      "index": 65,
+      "cell": {
+        "id": "CELL"
+      },
+      "chip": {
+        "id": "BOX"
+      }
+    },
+    {
+      "index": 66,
+      "cell": {
+        "id": "CELL"
+      },
+      "chip": {
+        "id": "BOX"
+      }
+    },
+    {
+      "index": 67,
+      "cell": {
+        "id": "CELL"
+      },
+      "chip": {
+        "id": "CUPBOARD",
+        "health" : 11
+      }
+    },
+    {
+      "index": 68,
+      "cell": {
+        "id": "CELL"
+      }
+    },
+    {
+      "index": 69,
+      "cell": {
+        "id": "CELL"
+      },
+      "chip": {
+        "id": "BOX"
+      }
+    },
+    {
+      "index": 70,
+      "cell": {
+        "id": "CELL"
+      },
+      "chip": {
+        "id": "CHIP_RANDOM"
+      }
+    },
+    {
+      "index": 71,
+      "cell": {
+        "id": "CELL"
+      },
+      "chip": {
+        "id": "CHIP_RANDOM"
+      }
+    },
+    {
+      "index": 72,
+      "cell": {
+        "id": "CELL"
+      },
+      "chip": {
+        "id": "CHIP_RANDOM"
+      }
+    },
+    {
+      "index": 73,
+      "cell": {
+        "id": "CELL"
+      },
+      "chip": {
+        "id": "BOX"
+      }
+    },
+    {
+      "index": 74,
+      "cell": {
+        "id": "CELL"
+      },
+      "chip": {
+        "id": "CUPBOARD",
+        "health" : 11
+      }
+    },
+    {
+      "index": 75,
+      "cell": {
+        "id": "CELL"
+      }
+    },
+    {
+      "index": 76,
+      "cell": {
+        "id": "CELL"
+      },
+      "chip": {
+        "id": "BOX"
+      }
+    },
+    {
+      "index": 77,
+      "cell": {
+        "id": "CELL"
+      },
+      "chip": {
+        "id": "BOX"
+      }
+    },
+    {
+      "index": 78,
+      "cell": {
+        "id": "CELL"
+      }
+    },
+    {
+      "index": 79,
+      "cell": {
+        "id": "CELL"
+      }
+    },
+    {
+      "index": 80,
+      "cell": {
+        "id": "CELL"
+      },
+      "chip": {
+        "id": "BOX"
+      }
+    },
+    {
+      "index": 81,
+      "cell": {
+        "id": "CELL"
+      },
+      "chip": {
+        "id": "BOX"
+      }
+    },
+    {
+      "index": 82,
+      "cell": {
+        "id": "CELL"
+      },
+      "chip": {
+        "id": "BOX"
+      }
+    },
+    {
+      "index": 83,
+      "cell": {
+        "id": "CELL"
+      },
+      "chip": {
+        "id": "BOX"
+      }
+    },
+    {
+      "index": 84,
+      "cell": {
+        "id": "CELL"
+      },
+      "chip": {
+        "id": "BOX"
+      }
+    },
+    {
+      "index": 85,
+      "cell": {
+        "id": "CELL"
+      }
+    },
+    {
+      "index": 86,
+      "cell": {
+        "id": "CELL"
+      }
+    },
+    {
+      "index": 87,
+      "cell": {
+        "id": "CELL"
+      },
+      "chip": {
+        "id": "BOX"
+      }
+    },
+    {
+      "index": 88,
+      "cell": {
+        "id": "CELL"
+      },
+      "chip": {
+        "id": "BOX"
+      }
+    },
+    {
+      "index": 89,
+      "cell": {
+        "id": "CELL"
+      },
+      "chip": {
+        "id": "BOX"
+      }
+    },
+    {
+      "index": 90,
+      "cell": {
+        "id": "CELL"
+      },
+      "chip": {
+        "id": "BOX"
+      }
+    },
+    {
+      "index": 91,
+      "cell": {
+        "id": "CELL"
+      },
+      "chip": {
+        "id": "BOX"
+      }
+    },
+    {
+      "index": 92,
+      "cell": {
+        "id": "CELL"
+      },
+      "chip": {
+        "id": "BOX"
+      }
+    },
+    {
+      "index": 93,
+      "cell": {
+        "id": "CELL"
+      },
+      "chip": {
+        "id": "BOX"
+      }
+    },
+    {
+      "index": 94,
+      "cell": {
+        "id": "CELL"
+      },
+      "chip": {
+        "id": "BOX"
+      }
+    },
+    {
+      "index": 95,
+      "cell": {
+        "id": "CELL"
+      },
+      "chip": {
+        "id": "BOX"
+      }
+    },
+    {
+      "index": 96,
+      "cell": {
+        "id": "CELL"
+      },
+      "chip": {
+        "id": "BOX"
+      }
+    },
+    {
+      "index": 97,
+      "cell": {
+        "id": "CELL"
+      },
+      "chip": {
+        "id": "BOX"
+      }
+    },
+    {
+      "index": 98,
+      "cell": {
+        "id": "CELL"
+      },
+      "chip": {
+        "id": "BOX"
+      }
+    }
+  ]
 }
-
-
 ]
